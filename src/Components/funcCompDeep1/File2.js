@@ -15,7 +15,9 @@ function File2(props){
                 onClick={function(){
                     setState((new Date()).toString());
                 }}
-            />  
+            />
+            <p>1111</p>
+
         </div>
     );
 };
